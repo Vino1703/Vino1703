@@ -1,0 +1,152 @@
+<svg width="850" height="540" viewBox="0 0 850 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skillsBg" x1="0" y1="0" x2="850" y2="540" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#060c09"/>
+      <stop offset="100%" stop-color="#0f1612"/>
+    </linearGradient>
+    <linearGradient id="skillsBorder" x1="0%" y1="0%" x2="850" y2="540" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="cardGreen" x1="0" y1="0" x2="365" y2="0">
+      <stop offset="0%" stop-color="#0c1812"/>
+      <stop offset="100%" stop-color="#13241b"/>
+    </linearGradient>
+    <linearGradient id="cardCyan" x1="0" y1="0" x2="365" y2="0">
+      <stop offset="0%" stop-color="#081820"/>
+      <stop offset="100%" stop-color="#0e2836"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: 'Fira Code', Consolas, Monaco, monospace; }
+  </style>
+
+  <rect x="1" y="1" width="848" height="538" rx="16" fill="url(#skillsBg)"/>
+  <rect x="1" y="1" width="848" height="538" rx="16" stroke="url(#skillsBorder)" stroke-width="1.5"/>
+
+  <!-- Card Title -->
+  <g transform="translate(35, 36)">
+    <circle cx="6" cy="6" r="6" fill="#22c55e"/>
+    <text x="22" y="10" fill="#f8fafc" font-size="16" font-weight="800" class="font-sans" letter-spacing="0.5">ENGINEERING, BACKEND ARCHITECTURE &amp; FULLSTACK MATRIX</text>
+    <text x="780" y="10" fill="#38bdf8" font-size="12" font-weight="700" text-anchor="end" class="font-mono">VINOTH KUMAR // STACK</text>
+  </g>
+
+  <!-- 10 Detailed Tools Cards (2 Columns x 5 Rows) -->
+
+  <!-- Row 1: Next.js 16 (Left) & TypeScript (Right) -->
+  <g transform="translate(35, 60)">
+    <rect width="370" height="80" rx="10" fill="url(#cardCyan)" stroke="#06b6d4" stroke-width="1.2"/>
+    <g transform="translate(16, 16)">
+      <rect width="48" height="48" rx="10" fill="#082f49" stroke="#0284c7" stroke-width="1"/>
+      <text x="24" y="30" fill="#38bdf8" font-size="20" font-weight="900" text-anchor="middle" class="font-mono">N</text>
+    </g>
+    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">Next.js 16 (App Router)</text>
+    <text x="74" y="50" fill="#bae6fd" font-size="11.5" class="font-sans">High-Performance Route Handlers &amp; API Gateways</text>
+    <text x="74" y="66" fill="#38bdf8" font-size="10" font-weight="600" class="font-mono">⚡ Server Components • Turbopack</text>
+  </g>
+
+  <g transform="translate(445, 60)">
+    <rect width="370" height="80" rx="10" fill="url(#cardGreen)" stroke="#22c55e" stroke-width="1.2"/>
+    <g transform="translate(16, 16)">
+      <rect width="48" height="48" rx="10" fill="#052e16" stroke="#22c55e" stroke-width="1"/>
+      <text x="24" y="30" fill="#4ade80" font-size="18" font-weight="900" text-anchor="middle" class="font-mono">TS</text>
+    </g>
+    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">TypeScript (Strict)</text>
+    <text x="74" y="50" fill="#86efac" font-size="11.5" class="font-sans">Type-Safe Clean OOP &amp; Zero-Trust Validation</text>
+    <text x="74" y="66" fill="#4ade80" font-size="10" font-weight="600" class="font-mono">🛡️ Zod Schema Validation • Static Types</text>
+  </g>
+
+  <!-- Row 2: PostgreSQL / Prisma (Left) & Node.js / Express (Right) -->
+  <g transform="translate(35, 152)">
+    <rect width="370" height="80" rx="10" fill="url(#cardCyan)" stroke="#06b6d4" stroke-width="1.2"/>
+    <g transform="translate(16, 16)">
+      <rect width="48" height="48" rx="10" fill="#082f49" stroke="#0284c7" stroke-width="1"/>
+      <text x="24" y="30" fill="#38bdf8" font-size="18" text-anchor="middle">🐘</text>
+    </g>
+    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">PostgreSQL &amp; Prisma ORM</text>
+    <text x="74" y="50" fill="#bae6fd" font-size="11.5" class="font-sans">Complex Relational Modeling, Locks &amp; Migrations</text>
+    <text x="74" y="66" fill="#38bdf8" font-size="10" font-weight="600" class="font-mono">🔒 Row-Level Locking • High Integrity</text>
+  </g>
+
+  <g transform="translate(445, 152)">
+    <rect width="370" height="80" rx="10" fill="url(#cardGreen)" stroke="#22c55e" stroke-width="1.2"/>
+    <g transform="translate(16, 16)">
+      <rect width="48" height="48" rx="10" fill="#052e16" stroke="#22c55e" stroke-width="1"/>
+      <text x="24" y="30" fill="#4ade80" font-size="18" text-anchor="middle">⚡</text>
+    </g>
+    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">Node.js &amp; Express</text>
+    <text x="74" y="50" fill="#86efac" font-size="11.5" class="font-sans">Asynchronous Microservices, Auth &amp; Rate Limiting</text>
+    <text x="74" y="66" fill="#4ade80" font-size="10" font-weight="600" class="font-mono">🚀 Non-blocking I/O • RESTful APIs</text>
+  </g>
+
+  <!-- Row 3: PHP & Clean Services (Left) & MySQL (Right) -->
+  <g transform="translate(35, 244)">
+    <rect width="370" height="80" rx="10" fill="url(#cardCyan)" stroke="#06b6d4" stroke-width="1.2"/>
+    <g transform="translate(16, 16)">
+      <rect width="48" height="48" rx="10" fill="#082f49" stroke="#0284c7" stroke-width="1"/>
+      <text x="24" y="30" fill="#38bdf8" font-size="18" font-weight="800" text-anchor="middle" class="font-mono">PHP</text>
+    </g>
+    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">PHP &amp; Modern OOP Services</text>
+    <text x="74" y="50" fill="#bae6fd" font-size="11.5" class="font-sans">Enterprise Legacy Migrations &amp; Clean Refactoring</text>
+    <text x="74" y="66" fill="#38bdf8" font-size="10" font-weight="600" class="font-mono">💎 Domain Design • Service Layers</text>
+  </g>
+
+  <g transform="translate(445, 244)">
+    <rect width="370" height="80" rx="10" fill="url(#cardGreen)" stroke="#22c55e" stroke-width="1.2"/>
+    <g transform="translate(16, 16)">
+      <rect width="48" height="48" rx="10" fill="#052e16" stroke="#22c55e" stroke-width="1"/>
+      <text x="24" y="30" fill="#4ade80" font-size="18" text-anchor="middle">🐬</text>
+    </g>
+    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">MySQL &amp; Relational Databases</text>
+    <text x="74" y="50" fill="#86efac" font-size="11.5" class="font-sans">Index Optimization, Queries &amp; Data Transfers</text>
+    <text x="74" y="66" fill="#4ade80" font-size="10" font-weight="600" class="font-mono">📊 ACID Transactions • Fast Indexing</text>
+  </g>
+
+  <!-- Row 4: Swiss Ephemeris Engine (Left) & Puppeteer PDF (Right) -->
+  <g transform="translate(35, 336)">
+    <rect width="370" height="80" rx="10" fill="url(#cardCyan)" stroke="#06b6d4" stroke-width="1.2"/>
+    <g transform="translate(16, 16)">
+      <rect width="48" height="48" rx="10" fill="#082f49" stroke="#0284c7" stroke-width="1"/>
+      <text x="24" y="30" fill="#38bdf8" font-size="18" text-anchor="middle">🌌</text>
+    </g>
+    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">Swiss Ephemeris &amp; Math Engine</text>
+    <text x="74" y="50" fill="#bae6fd" font-size="11.5" class="font-sans">Vedic Planetary Coordinates &amp; High-Precision Calculations</text>
+    <text x="74" y="66" fill="#38bdf8" font-size="10" font-weight="600" class="font-mono">🪐 Sub-Second Astronomical Math</text>
+  </g>
+
+  <g transform="translate(445, 336)">
+    <rect width="370" height="80" rx="10" fill="url(#cardGreen)" stroke="#22c55e" stroke-width="1.2"/>
+    <g transform="translate(16, 16)">
+      <rect width="48" height="48" rx="10" fill="#052e16" stroke="#22c55e" stroke-width="1"/>
+      <text x="24" y="30" fill="#4ade80" font-size="18" text-anchor="middle">📄</text>
+    </g>
+    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">Puppeteer Headless PDF Engine</text>
+    <text x="74" y="50" fill="#86efac" font-size="11.5" class="font-sans">Pixel-Perfect Multi-Page Chart &amp; Dossier Generation</text>
+    <text x="74" y="66" fill="#4ade80" font-size="10" font-weight="600" class="font-mono">🖨️ Automated Headless Rendering</text>
+  </g>
+
+  <!-- Row 5: Docker & Linux (Left) & Git & DevOps (Right) -->
+  <g transform="translate(35, 428)">
+    <rect width="370" height="80" rx="10" fill="url(#cardCyan)" stroke="#06b6d4" stroke-width="1.2"/>
+    <g transform="translate(16, 16)">
+      <rect width="48" height="48" rx="10" fill="#082f49" stroke="#0284c7" stroke-width="1"/>
+      <text x="24" y="30" fill="#38bdf8" font-size="18" text-anchor="middle">🐳</text>
+    </g>
+    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">Docker &amp; Linux CLI</text>
+    <text x="74" y="50" fill="#bae6fd" font-size="11.5" class="font-sans">Containerized Microservices, Shell Automation &amp; VPS</text>
+    <text x="74" y="66" fill="#38bdf8" font-size="10" font-weight="600" class="font-mono">🐧 Ubuntu Server • Container Isolation</text>
+  </g>
+
+  <g transform="translate(445, 428)">
+    <rect width="370" height="80" rx="10" fill="url(#cardGreen)" stroke="#22c55e" stroke-width="1.2"/>
+    <g transform="translate(16, 16)">
+      <rect width="48" height="48" rx="10" fill="#052e16" stroke="#22c55e" stroke-width="1"/>
+      <text x="24" y="30" fill="#4ade80" font-size="18" text-anchor="middle">🐙</text>
+    </g>
+    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">Git &amp; Modern CI/CD</text>
+    <text x="74" y="50" fill="#86efac" font-size="11.5" class="font-sans">Version Control, Automated Pipelines &amp; Deployments</text>
+    <text x="74" y="66" fill="#4ade80" font-size="10" font-weight="600" class="font-mono">🔄 Branch Strategy • Clean History</text>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<svg width="415" height="195" viewBox="0 0 415 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="streakBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#0284c7;#06b6d4" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: 'Fira Code', monospace; }
+    @keyframes fireGlow {
+      0%, 100% { transform: scale(1); filter: drop-shadow(0 0 4px #06b6d4); }
+      50% { transform: scale(1.1); filter: drop-shadow(0 0 10px #06b6d4); }
+    }
+    .fire-pulse { animation: fireGlow 1.8s infinite ease-in-out; transform-origin: 0 0; }
+  </style>
+
+  <rect width="415" height="195" rx="12" fill="#080c0a" stroke="url(#streakBorder)" stroke-width="1.4"/>
+
+  <g transform="translate(207, 45)">
+    <circle cx="0" cy="0" r="24" fill="#082f49" stroke="#06b6d4" stroke-width="2"/>
+    <text x="0" y="7" font-size="18" text-anchor="middle" class="fire-pulse">🔥</text>
+  </g>
+
+  <g transform="translate(75, 115)">
+    <text x="0" y="0" fill="#f8fafc" font-size="22" font-weight="800" text-anchor="middle" class="font-sans">3+ Yrs</text>
+    <text x="0" y="18" fill="#38bdf8" font-size="11" font-weight="600" text-anchor="middle" class="font-mono">Experience</text>
+    <text x="0" y="32" fill="#64748b" font-size="9" text-anchor="middle" class="font-mono">Full Stack</text>
+  </g>
+
+  <g transform="translate(207, 115)">
+    <text x="0" y="0" fill="#22c55e" font-size="24" font-weight="900" text-anchor="middle" class="font-sans">ACTIVE</text>
+    <text x="0" y="18" fill="#4ade80" font-size="11" font-weight="700" text-anchor="middle" class="font-mono">Current Streak</text>
+    <text x="0" y="32" fill="#86efac" font-size="9" text-anchor="middle" class="font-mono">Daily Consistency</text>
+  </g>
+
+  <g transform="translate(340, 115)">
+    <text x="0" y="0" fill="#f8fafc" font-size="22" font-weight="800" text-anchor="middle" class="font-sans">99.9%</text>
+    <text x="0" y="18" fill="#38bdf8" font-size="11" font-weight="600" text-anchor="middle" class="font-mono">Reliability</text>
+    <text x="0" y="32" fill="#64748b" font-size="9" text-anchor="middle" class="font-mono">Production SLA</text>
+  </g>
+</svg>

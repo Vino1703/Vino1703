@@ -1,0 +1,56 @@
+<svg width="850" height="150" viewBox="0 0 850 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="langBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e">
+        <animate attributeName="stop-color" values="#22c55e;#06b6d4;#22c55e" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: 'Fira Code', monospace; }
+  </style>
+
+  <rect width="850" height="150" rx="14" fill="#060c09" stroke="url(#langBorder)" stroke-width="1.4"/>
+
+  <g transform="translate(35, 30)">
+    <circle cx="6" cy="6" r="5" fill="#22c55e"/>
+    <text x="20" y="10" fill="#f8fafc" font-size="14" font-weight="700" class="font-sans">Core Language Distribution across Architecture &amp; Repositories</text>
+  </g>
+
+  <g transform="translate(35, 55)">
+    <rect x="0" y="0" width="310" height="10" rx="5" fill="#3178c6"/>
+    <rect x="314" y="0" width="220" height="10" rx="5" fill="#f1e05a"/>
+    <rect x="538" y="0" width="140" height="10" rx="5" fill="#4f5d95"/>
+    <rect x="682" y="0" width="60" height="10" rx="5" fill="#3572A5"/>
+    <rect x="746" y="0" width="34" height="10" rx="5" fill="#89e051"/>
+  </g>
+
+  <g transform="translate(35, 90)">
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="6" r="5" fill="#3178c6"/>
+      <text x="18" y="10" fill="#f8fafc" font-size="12" font-weight="600" class="font-sans">TypeScript <tspan fill="#94a3b8">40.5%</tspan></text>
+    </g>
+
+    <g transform="translate(170, 0)">
+      <circle cx="6" cy="6" r="5" fill="#f1e05a"/>
+      <text x="18" y="10" fill="#f8fafc" font-size="12" font-weight="600" class="font-sans">JavaScript <tspan fill="#94a3b8">28.0%</tspan></text>
+    </g>
+
+    <g transform="translate(340, 0)">
+      <circle cx="6" cy="6" r="5" fill="#4f5d95"/>
+      <text x="18" y="10" fill="#f8fafc" font-size="12" font-weight="600" class="font-sans">PHP <tspan fill="#94a3b8">18.5%</tspan></text>
+    </g>
+
+    <g transform="translate(480, 0)">
+      <circle cx="6" cy="6" r="5" fill="#3572A5"/>
+      <text x="18" y="10" fill="#f8fafc" font-size="12" font-weight="600" class="font-sans">Python <tspan fill="#94a3b8">8.0%</tspan></text>
+    </g>
+
+    <g transform="translate(620, 0)">
+      <circle cx="6" cy="6" r="5" fill="#89e051"/>
+      <text x="18" y="10" fill="#f8fafc" font-size="12" font-weight="600" class="font-sans">Shell / SQL <tspan fill="#94a3b8">5.0%</tspan></text>
+    </g>
+  </g>
+</svg>

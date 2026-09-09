@@ -1,0 +1,33 @@
+<svg width="415" height="135" viewBox="0 0 415 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hubBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#38bdf8;#06b6d4" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: 'Fira Code', Consolas, monospace; }
+  </style>
+  <rect width="415" height="135" rx="12" fill="#080c0a" stroke="url(#hubBorder)" stroke-width="1.4"/>
+  
+  <g transform="translate(20, 28)">
+    <text x="0" y="0" font-size="14">⚡</text>
+    <text x="24" y="0" fill="#38bdf8" font-size="15" font-weight="700" class="font-sans">Vino1703</text>
+    <rect x="315" y="-14" width="55" height="20" rx="10" fill="#082f49" stroke="#06b6d4" stroke-width="0.8"/>
+    <text x="342" y="0" fill="#7dd3fc" font-size="10" font-weight="600" text-anchor="middle" class="font-mono">Public</text>
+  </g>
+
+  <text x="20" y="58" fill="#94a3b8" font-size="11.5" class="font-sans">
+    <tspan x="20" dy="0">Special GitHub Profile Hub, animated vector telemetry,</tspan>
+    <tspan x="20" dy="16">terminal cards &amp; contribution snake pipeline.</tspan>
+  </text>
+
+  <g transform="translate(20, 108)">
+    <circle cx="5" cy="5" r="4" fill="#3572A5"/>
+    <text x="16" y="9" fill="#93c5fd" font-size="11" class="font-mono">Python / SVG Engine</text>
+    <text x="200" y="9" fill="#38bdf8" font-size="11" class="font-mono">★ Profile Hub</text>
+  </g>
+</svg>
