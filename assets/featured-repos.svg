@@ -30,18 +30,18 @@
     <text x="780" y="10" fill="#4ade80" font-size="12" font-weight="600" text-anchor="end" class="font-mono">Vino1703 // CODEBASE</text>
   </g>
 
-  <!-- Card 1: Kanithan-Astro-Dev -->
+  <!-- Card 1: enterprise-api-core -->
   <g transform="translate(35, 68)">
     <rect width="245" height="250" rx="12" fill="#0d1813" stroke="#22c55e" stroke-width="1.3"/>
     <circle cx="25" cy="28" r="10" fill="#052e16"/>
-    <text x="25" y="32" fill="#4ade80" font-size="12" text-anchor="middle" class="font-mono">🪐</text>
-    <text x="45" y="32" fill="#f8fafc" font-size="14.5" font-weight="700" class="font-sans">Kanithan-Astro-Dev</text>
+    <text x="25" y="32" fill="#4ade80" font-size="12" text-anchor="middle" class="font-mono">🚀</text>
+    <text x="45" y="32" fill="#f8fafc" font-size="14.5" font-weight="700" class="font-sans">enterprise-api-core</text>
     
     <text x="20" y="66" fill="#94a3b8" font-size="11.5" class="font-sans">
-      <tspan x="20" dy="0">High-concurrency Next.js</tspan>
-      <tspan x="20" dy="16">API engine with Prisma,</tspan>
-      <tspan x="20" dy="16">Postgres, Swiss Ephemeris</tspan>
-      <tspan x="20" dy="16">&amp; automated PDF pipeline.</tspan>
+      <tspan x="20" dy="0">High-concurrency Next.js 16</tspan>
+      <tspan x="20" dy="16">API gateway with Prisma,</tspan>
+      <tspan x="20" dy="16">Postgres, JWT rotation</tspan>
+      <tspan x="20" dy="16">&amp; row-locked transactions.</tspan>
     </text>
     
     <g transform="translate(20, 160)">

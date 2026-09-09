@@ -26,14 +26,11 @@
   <rect x="1" y="1" width="848" height="538" rx="16" fill="url(#skillsBg)"/>
   <rect x="1" y="1" width="848" height="538" rx="16" stroke="url(#skillsBorder)" stroke-width="1.5"/>
 
-  <!-- Card Title -->
   <g transform="translate(35, 36)">
     <circle cx="6" cy="6" r="6" fill="#22c55e"/>
     <text x="22" y="10" fill="#f8fafc" font-size="16" font-weight="800" class="font-sans" letter-spacing="0.5">ENGINEERING, BACKEND ARCHITECTURE &amp; FULLSTACK MATRIX</text>
     <text x="780" y="10" fill="#38bdf8" font-size="12" font-weight="700" text-anchor="end" class="font-mono">VINOTH KUMAR // STACK</text>
   </g>
-
-  <!-- 10 Detailed Tools Cards (2 Columns x 5 Rows) -->
 
   <!-- Row 1: Next.js 16 (Left) & TypeScript (Right) -->
   <g transform="translate(35, 60)">
@@ -104,16 +101,16 @@
     <text x="74" y="66" fill="#4ade80" font-size="10" font-weight="600" class="font-mono">📊 ACID Transactions • Fast Indexing</text>
   </g>
 
-  <!-- Row 4: Swiss Ephemeris Engine (Left) & Puppeteer PDF (Right) -->
+  <!-- Row 4: Redis Caching (Left) & Puppeteer PDF (Right) -->
   <g transform="translate(35, 336)">
     <rect width="370" height="80" rx="10" fill="url(#cardCyan)" stroke="#06b6d4" stroke-width="1.2"/>
     <g transform="translate(16, 16)">
       <rect width="48" height="48" rx="10" fill="#082f49" stroke="#0284c7" stroke-width="1"/>
-      <text x="24" y="30" fill="#38bdf8" font-size="18" text-anchor="middle">🌌</text>
+      <text x="24" y="30" fill="#38bdf8" font-size="18" text-anchor="middle">⚡</text>
     </g>
-    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">Swiss Ephemeris &amp; Math Engine</text>
-    <text x="74" y="50" fill="#bae6fd" font-size="11.5" class="font-sans">Vedic Planetary Coordinates &amp; High-Precision Calculations</text>
-    <text x="74" y="66" fill="#38bdf8" font-size="10" font-weight="600" class="font-mono">🪐 Sub-Second Astronomical Math</text>
+    <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">Redis &amp; Message Caching</text>
+    <text x="74" y="50" fill="#bae6fd" font-size="11.5" class="font-sans">In-Memory Data Stores, Rate Limiting &amp; Fast Queues</text>
+    <text x="74" y="66" fill="#38bdf8" font-size="10" font-weight="600" class="font-mono">⚡ Sub-Millisecond Speed • Pub/Sub</text>
   </g>
 
   <g transform="translate(445, 336)">
@@ -123,7 +120,7 @@
       <text x="24" y="30" fill="#4ade80" font-size="18" text-anchor="middle">📄</text>
     </g>
     <text x="74" y="32" fill="#ffffff" font-size="14" font-weight="700" class="font-sans">Puppeteer Headless PDF Engine</text>
-    <text x="74" y="50" fill="#86efac" font-size="11.5" class="font-sans">Pixel-Perfect Multi-Page Chart &amp; Dossier Generation</text>
+    <text x="74" y="50" fill="#86efac" font-size="11.5" class="font-sans">Pixel-Perfect Automated Reporting &amp; HTML-to-PDF</text>
     <text x="74" y="66" fill="#4ade80" font-size="10" font-weight="600" class="font-mono">🖨️ Automated Headless Rendering</text>
   </g>
 

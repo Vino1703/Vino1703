@@ -95,7 +95,6 @@
     <rect x="0" y="0" width="92" height="92" rx="18" stroke="#06b6d4" stroke-width="1" stroke-dasharray="6 4" opacity="0.5"/>
 
     <g transform="translate(2, 6)">
-      <!-- Ambient Screen Ray -->
       <polygon points="18,65 70,65 62,38 26,38" fill="url(#screenGlow)" class="screen-flicker"/>
 
       <!-- Body / Hoodie -->
@@ -113,9 +112,9 @@
       <!-- Anime Spiky Hair -->
       <path d="M28 32 C28 20, 36 14, 44 14 C52 14, 60 20, 60 32 C58 26, 52 22, 44 22 C36 22, 30 26, 28 32 Z" fill="#0f172a"/>
       <path d="M30 26 L24 20 L33 21 Z" fill="#0f172a"/>
-      <path d="M36 18 L32 10 L41 15 Z" fill="#1e293b"/>
+      <path d="M36 18 L32 10 L41 15 Z" fill="#1e1b4b"/>
       <path d="M44 15 L46 8 L50 16 Z" fill="#0f172a"/>
-      <path d="M52 18 L58 11 L54 22 Z" fill="#1e293b"/>
+      <path d="M52 18 L58 11 L54 22 Z" fill="#1e1b4b"/>
       <path d="M58 25 L64 22 L58 30 Z" fill="#0f172a"/>
       <path d="M32 10 L41 15 L46 8 L50 16 L58 11" stroke="#06b6d4" stroke-width="0.8" fill="none" opacity="0.8"/>
 

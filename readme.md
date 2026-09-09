@@ -54,8 +54,8 @@
   <table border="0" align="center">
     <tr align="center">
       <td>
-        <a href="https://github.com/Vino1703/Kanithan-Astro-Dev" target="_blank">
-          <img src="assets/repo-kanithan-astro.svg" width="415" alt="Kanithan-Astro-Dev" />
+        <a href="https://github.com/Vino1703/Vinoo-Blog" target="_blank">
+          <img src="assets/repo-vinoo-blog.svg" width="415" alt="Vinoo-Blog" />
         </a>
       </td>
       <td>
@@ -72,13 +72,13 @@
   <table border="0" align="center">
     <tr align="center">
       <td>
-        <a href="https://github.com/Vino1703/Kanithan-Astro-Dev" target="_blank">
-          <img src="https://img.shields.io/badge/🪐_Kanithan--Astro--Dev-Next.js_16_Backend-22C55E?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Kanithan Astro Dev" />
+        <a href="https://github.com/Vino1703/Vinoo-Blog" target="_blank">
+          <img src="https://img.shields.io/badge/📝_Vinoo--Blog-Web_Platform-06B6D4?style=for-the-badge&logo=javascript&logoColor=white" alt="Vinoo Blog" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/Vino1703/Vinoo-Blog" target="_blank">
-          <img src="https://img.shields.io/badge/📝_Vinoo--Blog-Web_Platform-06B6D4?style=for-the-badge&logo=javascript&logoColor=white" alt="Vinoo Blog" />
+        <a href="https://github.com/Vino1703/SHC-attendance" target="_blank">
+          <img src="https://img.shields.io/badge/🎓_SHC--Attendance-Management_Portal-22C55E?style=for-the-badge&logo=mysql&logoColor=white" alt="SHC Attendance" />
         </a>
       </td>
       <td>
@@ -145,7 +145,7 @@
 <div align="center">
 
   <!-- Clickable Native Vector Contact Form Card (Opens Gmail Web Directly) -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vinothkumarb1703@gmail.com&su=Engineering%20Inquiry%20%7C%20Full%20Stack%20Development&body=Hi%20Vinoth,%0A%0AI%20am%20interested%20in%20collaborating%20with%20you%20on%20a%20project:%0A%0A-%20Project%20Type:%20(e.g.%20Next.js%2016%20/%20Microservices%20/%20PostgreSQL%20/%20High-Concurrency%20API%20/%20PHP%20Migration)%0A-%20Technologies:%20(TypeScript,%20Prisma,%20Node.js,%20Docker,%20Swiss%20Ephemeris)%0A-%20Timeline%20&%20Scope:%0A%0ABest%20regards," target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vinothkumarb1703@gmail.com&su=Engineering%20Inquiry%20%7C%20Full%20Stack%20Development&body=Hi%20Vinoth,%0A%0AI%20am%20interested%20in%20collaborating%20with%20you%20on%20a%20project:%0A%0A-%20Project%20Type:%20(e.g.%20Next.js%2016%20/%20Microservices%20/%20PostgreSQL%20/%20High-Concurrency%20API%20/%20PHP%20Migration)%0A-%20Technologies:%20(TypeScript,%20Prisma,%20Node.js,%20Docker,%20Redis)%0A-%20Timeline%20&%20Scope:%0A%0ABest%20regards," target="_blank">
     <img src="assets/contact.svg" width="100%" alt="Contact Form Card - Click to Send Mail" />
   </a>
 
