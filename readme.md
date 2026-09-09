@@ -18,7 +18,7 @@
 
 <div align="center">
   <!-- Native Vector SVG Terminal Card -->
-  <img src="assets/about.svg" width="100%" alt="Terminal Architecture - Vinoth Kumar" />
+  <img src="assets/about-terminal.svg" width="100%" alt="Terminal Architecture - Vinoth Kumar" />
 </div>
 
 ---
@@ -27,7 +27,7 @@
 
 <div align="center">
   <!-- Native Vector SVG Skills & Comprehensive Integrations Matrix -->
-  <img src="assets/skills.svg" width="100%" alt="Skills & Integrations Matrix" />
+  <img src="assets/skills-matrix.svg" width="100%" alt="Skills & Integrations Matrix" />
 
   <br/><br/>
 
@@ -45,7 +45,7 @@
 
   <!-- Clickable Native Vector Repositories Matrix -->
   <a href="https://github.com/Vino1703?tab=repositories" target="_blank">
-    <img src="assets/featured-repos.svg" width="100%" alt="Featured Repositories" />
+    <img src="assets/featured-architectures.svg" width="100%" alt="Featured Repositories" />
   </a>
 
 <br/><br/>
@@ -123,7 +123,7 @@
 <br/><br/>
 
   <!-- Native Vector Stats & Metrics -->
-  <img src="assets/stats.svg" width="100%" alt="System Telemetry" />
+  <img src="assets/stats-metrics.svg" width="100%" alt="System Telemetry" />
 
 </div>
 
@@ -146,7 +146,7 @@
 
   <!-- Clickable Native Vector Contact Form Card (Opens Gmail Web Directly) -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vinothkumarb1703@gmail.com&su=Engineering%20Inquiry%20%7C%20Full%20Stack%20Development&body=Hi%20Vinoth,%0A%0AI%20am%20interested%20in%20collaborating%20with%20you%20on%20a%20project:%0A%0A-%20Project%20Type:%20(e.g.%20Next.js%2016%20/%20Microservices%20/%20PostgreSQL%20/%20High-Concurrency%20API%20/%20PHP%20Migration)%0A-%20Technologies:%20(TypeScript,%20Prisma,%20Node.js,%20Docker,%20Redis)%0A-%20Timeline%20&%20Scope:%0A%0ABest%20regards," target="_blank">
-    <img src="assets/contact.svg" width="100%" alt="Contact Form Card - Click to Send Mail" />
+    <img src="assets/contact-form.svg" width="100%" alt="Contact Form Card - Click to Send Mail" />
   </a>
 
 <br/><br/>
